@@ -46,7 +46,7 @@ if not st.session_state.get("authed"):
     with st.form("login"):
         st.subheader("Sign in")
         pw = st.text_input("Password", type="password")
-        submitted = st.form_submit_button("Sign in", use_container_width=True)
+        submitted = st.form_submit_button("Sign in", width="stretch")
     if submitted:
         if pw == _PW:
             st.session_state.authed = True
@@ -112,7 +112,7 @@ def compute_rising_topics(df: pd.DataFrame, min_mentions: int = 5) -> pd.DataFra
     if ts not in df.columns:
         return pd.DataFrame()
 
-    df[ts] = pd.to_datetime(df[ts], utc=True, errors="coerce")
+    df = df.assign(**{ts: pd.to_datetime(df[ts], utc=True, errors="coerce")})
     df = df.dropna(subset=[ts])
     if df.empty:
         return pd.DataFrame()
@@ -165,16 +165,16 @@ events_df = _load_table("events")
 questions_df = _load_table("questions")
 
 if not events_df.empty and "tags" in events_df.columns:
-    events_df["tags"] = events_df["tags"].apply(_parse_tags)
+    events_df = events_df.assign(tags=events_df["tags"].apply(_parse_tags))
 
 if not questions_df.empty and "created_ts_pacific" in questions_df.columns:
-    questions_df["created_ts_pacific"] = pd.to_datetime(
-        questions_df["created_ts_pacific"], utc=True, errors="coerce"
+    questions_df = questions_df.assign(
+        created_ts_pacific=pd.to_datetime(questions_df["created_ts_pacific"], utc=True, errors="coerce")
     )
 
 if not events_df.empty and "start_ts_pacific" in events_df.columns:
-    events_df["start_ts_pacific"] = pd.to_datetime(
-        events_df["start_ts_pacific"], utc=True, errors="coerce"
+    events_df = events_df.assign(
+        start_ts_pacific=pd.to_datetime(events_df["start_ts_pacific"], utc=True, errors="coerce")
     )
 
 
@@ -233,7 +233,7 @@ with st.sidebar:
 
     st.divider()
     if IS_LOCAL:
-        if st.button("Refresh data", type="primary", use_container_width=True):
+        if st.button("Refresh data", type="primary", width="stretch"):
             with st.spinner("Running ingest pipeline..."):
                 proc = subprocess.run(
                     [sys.executable, "-m", "trenderizer.ingest"],
@@ -352,10 +352,10 @@ with tab1:
                     height=max(400, len(topic_counts) * 26),
                 )
                 fig.update_layout(yaxis={"categoryorder": "total ascending"}, showlegend=True)
-                st.plotly_chart(fig, use_container_width=True)
+                st.plotly_chart(fig, width="stretch")
 
             except ImportError:
-                st.dataframe(topic_counts, use_container_width=True, hide_index=True)
+                st.dataframe(topic_counts, width="stretch", hide_index=True)
 
             # Drill-down
             st.divider()
@@ -381,7 +381,7 @@ with tab1:
                 available = {k: v for k, v in display_cols.items() if k in drill_df.columns}
                 st.dataframe(
                     drill_df[list(available.keys())].rename(columns=available),
-                    use_container_width=True,
+                    width="stretch",
                     hide_index=True,
                 )
 
@@ -412,7 +412,7 @@ with tab2:
         else:
             rising_selection = st.dataframe(
                 rising,
-                use_container_width=True,
+                width="stretch",
                 hide_index=True,
                 on_select="rerun",
                 selection_mode="single-row",
@@ -448,7 +448,7 @@ with tab2:
                     available_q = {k: v for k, v in q_cols.items() if k in topic_qs.columns}
                     st.dataframe(
                         topic_qs[list(available_q.keys())].rename(columns=available_q),
-                        use_container_width=True,
+                        width="stretch",
                         hide_index=True,
                     )
 
@@ -483,7 +483,7 @@ with tab3:
             if co_df.empty:
                 st.info(f"No questions from {chosen} in this window.")
             else:
-                co_df["month"] = co_df["created_ts_pacific"].dt.to_period("M").astype(str)
+                co_df = co_df.assign(month=co_df["created_ts_pacific"].dt.strftime("%Y-%m"))
 
                 pivot = (
                     co_df.dropna(subset=["topic_label"])
@@ -503,9 +503,9 @@ with tab3:
                             title=f"{chosen} — Topic Mix Over Time",
                             labels={"month": "Month", "count": "Questions", "topic_label": "Topic"},
                         )
-                        st.plotly_chart(fig, use_container_width=True)
+                        st.plotly_chart(fig, width="stretch")
                     except ImportError:
-                        st.dataframe(pivot, use_container_width=True, hide_index=True)
+                        st.dataframe(pivot, width="stretch", hide_index=True)
 
                 st.subheader(f"{chosen} — All Questions ({len(co_df)})")
                 display = co_df.copy()
@@ -524,7 +524,7 @@ with tab3:
                 available = {k: v for k, v in cols.items() if k in display.columns}
                 st.dataframe(
                     display[list(available.keys())].rename(columns=available),
-                    use_container_width=True,
+                    width="stretch",
                     hide_index=True,
                 )
 
@@ -546,7 +546,7 @@ with tab4:
         if not questions_df.empty and "event_id" in questions_df.columns:
             qcounts = questions_df.groupby("event_id").size().reset_index(name="Questions")
             e_display = e_display.merge(qcounts, on="event_id", how="left")
-            e_display["Questions"] = e_display["Questions"].fillna(0).astype(int)
+            e_display = e_display.assign(Questions=e_display["Questions"].fillna(0).astype(int))
 
             # Customer questions (non-Siemens)
             if "is_siemens_employee" in questions_df.columns:
@@ -557,7 +557,7 @@ with tab4:
                     .reset_index(name="Customer Q")
                 )
                 e_display = e_display.merge(cust_counts, on="event_id", how="left")
-                e_display["Customer Q"] = e_display["Customer Q"].fillna(0).astype(int)
+                e_display = e_display.assign(**{"Customer Q": e_display["Customer Q"].fillna(0).astype(int)})
 
         display_cols = {
             "event_id": "Event ID",
@@ -578,7 +578,7 @@ with tab4:
 
         event_selection = st.dataframe(
             e_sorted[list(available.keys())].rename(columns=available),
-            use_container_width=True,
+            width="stretch",
             hide_index=True,
             on_select="rerun",
             selection_mode="single-row",
@@ -607,7 +607,7 @@ with tab4:
                 available_q = {k: v for k, v in q_cols.items() if k in event_qs.columns}
                 st.dataframe(
                     event_qs[list(available_q.keys())].rename(columns=available_q),
-                    use_container_width=True,
+                    width="stretch",
                     hide_index=True,
                 )
 
