@@ -1,0 +1,722 @@
+{
+  "aero.org": {
+    "company": "Aeronautical Radio, Inc.",
+    "is_personal": false
+  },
+  "agilent.com": {
+    "company": "Agilent Technologies",
+    "is_personal": false
+  },
+  "aheadcomputing.com": {
+    "company": "Ahead Computing",
+    "is_personal": false
+  },
+  "ai-fabrics.com": {
+    "company": "AI Fabrics",
+    "is_personal": false
+  },
+  "airbus.com": {
+    "company": "Airbus SE",
+    "is_personal": false
+  },
+  "akunacapital.com": {
+    "company": "Akuna Capital",
+    "is_personal": false
+  },
+  "alifsemi.com": {
+    "company": "Alif Semiconductor",
+    "is_personal": false
+  },
+  "allegromicro.com": {
+    "company": "Allegro MicroSystems",
+    "is_personal": false
+  },
+  "altair.com": {
+    "company": "Altair Engineering",
+    "is_personal": false
+  },
+  "altera.com": {
+    "company": "Intel Corporation",
+    "is_personal": false
+  },
+  "amazon.com": {
+    "company": "Amazon.com, Inc.",
+    "is_personal": false
+  },
+  "ambiq.com": {
+    "company": "Ambiq Micro",
+    "is_personal": false
+  },
+  "amd.com": {
+    "company": "Advanced Micro Devices, Inc.",
+    "is_personal": false
+  },
+  "amperecomputing.com": {
+    "company": "Ampere Computing",
+    "is_personal": false
+  },
+  "analog.com": {
+    "company": "Analog Devices, Inc.",
+    "is_personal": false
+  },
+  "annapmicro.com": {
+    "company": "Annap Micro",
+    "is_personal": false
+  },
+  "apple.com": {
+    "company": "Apple Inc.",
+    "is_personal": false
+  },
+  "arista.com": {
+    "company": "Arista Networks",
+    "is_personal": false
+  },
+  "arm.com": {
+    "company": "Arm Holdings",
+    "is_personal": false
+  },
+  "atengines.com": {
+    "company": "AT Engines",
+    "is_personal": false
+  },
+  "aurasemi.com": {
+    "company": "Aura Semiconductor",
+    "is_personal": false
+  },
+  "awavesemi.com": {
+    "company": "A-Wave Semiconductor",
+    "is_personal": false
+  },
+  "axelera.ai": {
+    "company": "Axelera AI",
+    "is_personal": false
+  },
+  "baesystems.com": {
+    "company": "BAE Systems",
+    "is_personal": false
+  },
+  "baesystems.us": {
+    "company": "BAE Systems",
+    "is_personal": false
+  },
+  "bahnhof.se": {
+    "company": "Bahnhof",
+    "is_personal": false
+  },
+  "ballaerospace.com": {
+    "company": "Ball Aerospace",
+    "is_personal": false
+  },
+  "beartootheng.com": {
+    "company": "Beartooth Engineering",
+    "is_personal": false
+  },
+  "bench.com": {
+    "company": "Bench",
+    "is_personal": false
+  },
+  "boeing.com": {
+    "company": "Boeing Company",
+    "is_personal": false
+  },
+  "br-automation.com": {
+    "company": "B&R Industrial Automation",
+    "is_personal": false
+  },
+  "broadcom.com": {
+    "company": "Broadcom Inc.",
+    "is_personal": false
+  },
+  "bruker.com": {
+    "company": "Bruker Corporation",
+    "is_personal": false
+  },
+  "caci.com": {
+    "company": "CACI International",
+    "is_personal": false
+  },
+  "calian.com": {
+    "company": "Calian Ltd.",
+    "is_personal": false
+  },
+  "cdtas.com": {
+    "company": "CDTAS",
+    "is_personal": false
+  },
+  "cerebras.net": {
+    "company": "Cerebras Systems",
+    "is_personal": false
+  },
+  "certus-semi.com": {
+    "company": "Certus Semiconductor",
+    "is_personal": false
+  },
+  "chain-reaction.io": {
+    "company": "Chain Reaction",
+    "is_personal": false
+  },
+  "ciena.com": {
+    "company": "Ciena Corporation",
+    "is_personal": false
+  },
+  "cirrus.com": {
+    "company": "Cirrus Aircraft",
+    "is_personal": false
+  },
+  "cirtecmed.com": {
+    "company": "Cirtec Medical",
+    "is_personal": false
+  },
+  "cisco.com": {
+    "company": "Cisco Systems",
+    "is_personal": false
+  },
+  "cmc.ca": {
+    "company": "CMC Microsystems",
+    "is_personal": false
+  },
+  "cmcelectronics.ca": {
+    "company": "CMC Electronics",
+    "is_personal": false
+  },
+  "codasip.com": {
+    "company": "Codasip",
+    "is_personal": false
+  },
+  "collins.com": {
+    "company": "Collins Aerospace",
+    "is_personal": false
+  },
+  "connectgroup.com": {
+    "company": "Connect Group",
+    "is_personal": false
+  },
+  "de.bosch.com": {
+    "company": "Robert Bosch GmbH",
+    "is_personal": false
+  },
+  "draper.com": {
+    "company": "Draper",
+    "is_personal": false
+  },
+  "dreamchip.de": {
+    "company": "DreamChip Technologies",
+    "is_personal": false
+  },
+  "dvc.edu": {
+    "company": "Diablo Valley College",
+    "is_personal": false
+  },
+  "easii-ic.com": {
+    "company": "EASII IC",
+    "is_personal": false
+  },
+  "emeraldtechnologies.com": {
+    "company": "Emerald Technologies",
+    "is_personal": false
+  },
+  "engentaat.com": {
+    "company": "Engenta",
+    "is_personal": false
+  },
+  "ericsson.com": {
+    "company": "Ericsson",
+    "is_personal": false
+  },
+  "eridu.ai": {
+    "company": "Eridu AI",
+    "is_personal": false
+  },
+  "esa.tu-darmstadt.de": {
+    "company": "Technische Universit\u00e4t Darmstadt",
+    "is_personal": false
+  },
+  "escomaritime-uk.com": {
+    "company": "ESCO Maritime",
+    "is_personal": false
+  },
+  "ethernovia.com": {
+    "company": "EtherNovia",
+    "is_personal": false
+  },
+  "expected-it.com": {
+    "company": "Expected IT",
+    "is_personal": false
+  },
+  "ext.semidynamics.com": {
+    "company": "SemiDynamics",
+    "is_personal": false
+  },
+  "f5.com": {
+    "company": "F5 Networks",
+    "is_personal": false
+  },
+  "ford.com": {
+    "company": "Ford Motor Company",
+    "is_personal": false
+  },
+  "fortaegis.com": {
+    "company": "Fort Aegis",
+    "is_personal": false
+  },
+  "fr.bosch.com": {
+    "company": "Robert Bosch GmbH",
+    "is_personal": false
+  },
+  "fr.thalesgroup.com": {
+    "company": "Thales Group",
+    "is_personal": false
+  },
+  "freseniusmedicalcare.com": {
+    "company": "Fresenius Medical Care",
+    "is_personal": false
+  },
+  "globalfoundries.com": {
+    "company": "GlobalFoundries",
+    "is_personal": false
+  },
+  "gmail.com": {
+    "company": "Personal / Unknown",
+    "is_personal": true
+  },
+  "google.com": {
+    "company": "Google LLC",
+    "is_personal": false
+  },
+  "guc-asic.com": {
+    "company": "GUC ASIC",
+    "is_personal": false
+  },
+  "harman.com": {
+    "company": "Harman International",
+    "is_personal": false
+  },
+  "hcltech.com": {
+    "company": "HCL Technologies",
+    "is_personal": false
+  },
+  "hensoldt.net": {
+    "company": "Hensoldt",
+    "is_personal": false
+  },
+  "honeywell.com": {
+    "company": "Honeywell International",
+    "is_personal": false
+  },
+  "imec.be": {
+    "company": "IMEC",
+    "is_personal": false
+  },
+  "indiesemi.com": {
+    "company": "Indie Semiconductor",
+    "is_personal": false
+  },
+  "infineon.com": {
+    "company": "Infineon Technologies",
+    "is_personal": false
+  },
+  "intel.com": {
+    "company": "Intel Corporation",
+    "is_personal": false
+  },
+  "intopix.com": {
+    "company": "Intopix",
+    "is_personal": false
+  },
+  "intracom-telecom.com": {
+    "company": "Intracom Telecom",
+    "is_personal": false
+  },
+  "intrepidcs.com": {
+    "company": "Intrepid Control Systems",
+    "is_personal": false
+  },
+  "jabil.com": {
+    "company": "Jabil Circuit",
+    "is_personal": false
+  },
+  "jhuapl.edu": {
+    "company": "Johns Hopkins University Applied Physics Laboratory",
+    "is_personal": false
+  },
+  "jpl.nasa.gov": {
+    "company": "NASA Jet Propulsion Laboratory",
+    "is_personal": false
+  },
+  "kalrayinc.com": {
+    "company": "Kalray",
+    "is_personal": false
+  },
+  "kaynestechnology.net": {
+    "company": "Kaynes Technology",
+    "is_personal": false
+  },
+  "keplercompute.com": {
+    "company": "Kepler Computing",
+    "is_personal": false
+  },
+  "keysight.com": {
+    "company": "Keysight Technologies",
+    "is_personal": false
+  },
+  "kimballelectronics.com": {
+    "company": "Kimball Electronics",
+    "is_personal": false
+  },
+  "kontron.com": {
+    "company": "Kontron",
+    "is_personal": false
+  },
+  "l3harris.com": {
+    "company": "L3Harris Technologies",
+    "is_personal": false
+  },
+  "latticesemi.com": {
+    "company": "Lattice Semiconductor",
+    "is_personal": false
+  },
+  "leco.com": {
+    "company": "LECO Corporation",
+    "is_personal": false
+  },
+  "lenze.com": {
+    "company": "Lenze",
+    "is_personal": false
+  },
+  "leonardo.com": {
+    "company": "Leonardo S.p.A.",
+    "is_personal": false
+  },
+  "ll.mit.edu": {
+    "company": "MIT Lincoln Laboratory",
+    "is_personal": false
+  },
+  "lmco.com": {
+    "company": "Lockheed Martin Corporation",
+    "is_personal": false
+  },
+  "lytx.com": {
+    "company": "Lytx",
+    "is_personal": false
+  },
+  "marvell.com": {
+    "company": "Marvell Technology, Inc.",
+    "is_personal": false
+  },
+  "matrox.com": {
+    "company": "Matrox Graphics, Inc.",
+    "is_personal": false
+  },
+  "matx.com": {
+    "company": "MATX",
+    "is_personal": false
+  },
+  "maxlinear.com": {
+    "company": "MaxLinear",
+    "is_personal": false
+  },
+  "mda.space": {
+    "company": "MDA Ltd.",
+    "is_personal": false
+  },
+  "microchip.com": {
+    "company": "Microchip Technology",
+    "is_personal": false
+  },
+  "micron.com": {
+    "company": "Micron Technology",
+    "is_personal": false
+  },
+  "microsoft.com": {
+    "company": "Microsoft Corporation",
+    "is_personal": false
+  },
+  "mixel.com": {
+    "company": "Mixel",
+    "is_personal": false
+  },
+  "mobileye.com": {
+    "company": "Mobileye",
+    "is_personal": false
+  },
+  "mru.medical.canon": {
+    "company": "Canon Medical Systems",
+    "is_personal": false
+  },
+  "multicad.ro": {
+    "company": "Multicad",
+    "is_personal": false
+  },
+  "nanoxplore.com": {
+    "company": "NanoXplore",
+    "is_personal": false
+  },
+  "netapp.com": {
+    "company": "NetApp",
+    "is_personal": false
+  },
+  "neuronip.com": {
+    "company": "NeuroNIP",
+    "is_personal": false
+  },
+  "ngc.com": {
+    "company": "Northrop Grumman Corporation",
+    "is_personal": false
+  },
+  "nokia.com": {
+    "company": "Nokia Corporation",
+    "is_personal": false
+  },
+  "non.agilent.com": {
+    "company": "Agilent Technologies",
+    "is_personal": false
+  },
+  "nordicsemi.no": {
+    "company": "Nordic Semiconductor ASA",
+    "is_personal": false
+  },
+  "nxp.com": {
+    "company": "NXP Semiconductors",
+    "is_personal": false
+  },
+  "onsemi.com": {
+    "company": "ON Semiconductor",
+    "is_personal": false
+  },
+  "openchip.com": {
+    "company": "OpenChip",
+    "is_personal": false
+  },
+  "optiver.com": {
+    "company": "Optiver",
+    "is_personal": false
+  },
+  "ost.ch": {
+    "company": "OST Eastern Switzerland University of Applied Sciences",
+    "is_personal": false
+  },
+  "palpilot.com": {
+    "company": "Pal Pilot",
+    "is_personal": false
+  },
+  "philips.com": {
+    "company": "Philips Electronics",
+    "is_personal": false
+  },
+  "pliops.com": {
+    "company": "Pliops",
+    "is_personal": false
+  },
+  "polsl.pl": {
+    "company": "Silesian University of Technology",
+    "is_personal": false
+  },
+  "presto-eng.com": {
+    "company": "Presto Engineering",
+    "is_personal": false
+  },
+  "qti.qualcomm.com": {
+    "company": "Qualcomm Technologies, Inc.",
+    "is_personal": false
+  },
+  "quest-global.com": {
+    "company": "Quest Global",
+    "is_personal": false
+  },
+  "renesas.com": {
+    "company": "Renesas Electronics Corporation",
+    "is_personal": false
+  },
+  "rockwellautomation.com": {
+    "company": "Rockwell Automation",
+    "is_personal": false
+  },
+  "rtx.com": {
+    "company": "RTX Corporation",
+    "is_personal": false
+  },
+  "sabca.be": {
+    "company": "SABCA",
+    "is_personal": false
+  },
+  "samsung.com": {
+    "company": "Samsung Electronics",
+    "is_personal": false
+  },
+  "sandisk.com": {
+    "company": "SanDisk Corporation",
+    "is_personal": false
+  },
+  "saratech.com": {
+    "company": "Sara Technologies",
+    "is_personal": false
+  },
+  "saros.co.uk": {
+    "company": "Saros Technology",
+    "is_personal": false
+  },
+  "seakr.com": {
+    "company": "SEAKR Engineering",
+    "is_personal": false
+  },
+  "secturion.com": {
+    "company": "Secturion Systems",
+    "is_personal": false
+  },
+  "semidynamics.com": {
+    "company": "SemiDynamics",
+    "is_personal": false
+  },
+  "sequans.com": {
+    "company": "Sequans Communications",
+    "is_personal": false
+  },
+  "siemens-energy.com": {
+    "company": "Siemens Energy",
+    "is_personal": false
+  },
+  "sierraedge.ai": {
+    "company": "Sierra Edge AI",
+    "is_personal": false
+  },
+  "sig.com": {
+    "company": "Sig Sauer",
+    "is_personal": false
+  },
+  "signoffsemi.com": {
+    "company": "SignOff Semiconductor",
+    "is_personal": false
+  },
+  "sintecs.nl": {
+    "company": "SinTecs",
+    "is_personal": false
+  },
+  "sipearl.com": {
+    "company": "SiPearl",
+    "is_personal": false
+  },
+  "skywatertechnology.com": {
+    "company": "SkyWater Technology",
+    "is_personal": false
+  },
+  "skyworksinc.com": {
+    "company": "Skyworks Solutions",
+    "is_personal": false
+  },
+  "snap.com": {
+    "company": "Snap Inc.",
+    "is_personal": false
+  },
+  "snapchat.com": {
+    "company": "Snap Inc.",
+    "is_personal": false
+  },
+  "sony.com": {
+    "company": "Sony Corporation",
+    "is_personal": false
+  },
+  "st.com": {
+    "company": "STMicroelectronics",
+    "is_personal": false
+  },
+  "tdk.com": {
+    "company": "TDK Corporation",
+    "is_personal": false
+  },
+  "tektronix.com": {
+    "company": "Tektronix",
+    "is_personal": false
+  },
+  "teledyne.com": {
+    "company": "Teledyne Technologies Incorporated",
+    "is_personal": false
+  },
+  "tesat.de": {
+    "company": "Tesat-Spacecom",
+    "is_personal": false
+  },
+  "tesla.com": {
+    "company": "Tesla, Inc.",
+    "is_personal": false
+  },
+  "tessolve.com": {
+    "company": "Tessolve",
+    "is_personal": false
+  },
+  "thalesaleniaspace.com": {
+    "company": "Thales Alenia Space",
+    "is_personal": false
+  },
+  "thalesgroup.com": {
+    "company": "Thales Group",
+    "is_personal": false
+  },
+  "tkmsgroup.com": {
+    "company": "TKMS Group",
+    "is_personal": false
+  },
+  "tmrwsi.com": {
+    "company": "Tomorrow Systems Integration",
+    "is_personal": false
+  },
+  "towersemi.com": {
+    "company": "Tower Semiconductor",
+    "is_personal": false
+  },
+  "tridenttechlabs.com": {
+    "company": "Trident Tech Labs",
+    "is_personal": false
+  },
+  "tsmc.com": {
+    "company": "Taiwan Semiconductor Manufacturing Company",
+    "is_personal": false
+  },
+  "upscaleai.com": {
+    "company": "Upscale AI",
+    "is_personal": false
+  },
+  "valeo.com": {
+    "company": "Valeo SE",
+    "is_personal": false
+  },
+  "vargroup.com": {
+    "company": "VAR Group",
+    "is_personal": false
+  },
+  "vertiv.com": {
+    "company": "Vertiv Holdings",
+    "is_personal": false
+  },
+  "viasat.com": {
+    "company": "Viasat",
+    "is_personal": false
+  },
+  "virasemi.com": {
+    "company": "Vira Semiconductors",
+    "is_personal": false
+  },
+  "wirtron.com": {
+    "company": "Wirtron",
+    "is_personal": false
+  },
+  "woongjin.co.kr": {
+    "company": "Woongjin Group",
+    "is_personal": false
+  },
+  "xsightlabs.com": {
+    "company": "XSight Labs",
+    "is_personal": false
+  },
+  "yahoo.com": {
+    "company": "Personal / Unknown",
+    "is_personal": true
+  },
+  "z-zero.com": {
+    "company": "Z-Zero",
+    "is_personal": false
+  },
+  "zf.com": {
+    "company": "ZF Friedrichshafen",
+    "is_personal": false
+  }
+}
