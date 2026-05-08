@@ -1,0 +1,466 @@
+{
+  "schema_version": 1,
+  "last_run_at": "2026-05-08T01:11:35.196996+00:00",
+  "events": {
+    "4940311": {
+      "title": "Questa\u00ae Signoff CDC: Eliminate Netlist Glitches and Prioritize your Glitch Analysis with AI/ML based Glitch Assist",
+      "inferred_product": "Questa",
+      "last_fetched_at": "2026-05-07T23:52:55.653028+00:00"
+    },
+    "4925700": {
+      "title": "Accelerating Power-Up: Unveiling the Benefits of Tessent\u2122 Concurrent BISR Chain Access",
+      "inferred_product": "Tessent",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "4948221": {
+      "title": "Calibre PEX Series - Episode 4: From Pain to Gain: Optimizing Full-Chip PEX Netlists",
+      "inferred_product": "Calibre",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "4929726": {
+      "title": "Why DC Analysis is Important in PCB Verification",
+      "inferred_product": "HyperLynx",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "4920936": {
+      "title": "What's New in Valor NPI & VPL v2504",
+      "inferred_product": "Valor",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "4959809": {
+      "title": "Accelerate HDL Development with VSCode-enabled Questa Developer",
+      "inferred_product": "Questa",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "4930287": {
+      "title": "What's New in Xpedition 2504",
+      "inferred_product": "Xpedition",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "4937035": {
+      "title": "EDM Design Cockpit Basics",
+      "inferred_product": "Xpedition",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "4955226": {
+      "title": "Maximize your productivity with the Aprisa\u2122 GUI: Tips and tricks along your workflow",
+      "inferred_product": "Aprisa",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "4969903": {
+      "title": "Insight Analyzer: Improve Result Accuracy Using Power and Boundary States",
+      "inferred_product": "Solido",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "4966958": {
+      "title": "Board Design Flow Data Interaction",
+      "inferred_product": "Xpedition",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "4962048": {
+      "title": "Unlocking DFT Success with Tessent BoundaryScan",
+      "inferred_product": "Tessent",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "4966987": {
+      "title": "Part 2: Board Design Flow Data Interaction",
+      "inferred_product": "Xpedition",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "4966994": {
+      "title": "Part 3: Board Design Flow Data Interaction",
+      "inferred_product": "Xpedition",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "4982700": {
+      "title": "Avery PCIe Gen7 Deep Dive: Design, Verify, and Test 128 GT/s with Questa One VIP Features",
+      "inferred_product": "Questa",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "4920687": {
+      "title": "EDM LDAP Configuration: Complex LDAP Filters with the Filter Wizard",
+      "inferred_product": "Xpedition",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5006705": {
+      "title": "Using SSN Fast IO to Increase Scan Data Bandwidth",
+      "inferred_product": "Tessent",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "4985362": {
+      "title": "Optimization for Engineers: Modern Strategies, SHERPA, and HyperLynx Design Space Exploration",
+      "inferred_product": "HyperLynx",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5008273": {
+      "title": "Calibre Vision AI: Accelerate your Full Chip Debug Workflows with AI-Powered Analysis",
+      "inferred_product": "Calibre",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "4985375": {
+      "title": "Working with the Constraint Manager in the Modern User Experience",
+      "inferred_product": "Xpedition",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "4998435": {
+      "title": "Mastering 6GHz LC VCO Design and Characterization - Episode 1",
+      "inferred_product": "Solido",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5011335": {
+      "title": "Cancelled: Revolutionizing DFT Verification: Unlocking Speed and Efficiency with Questa One Sim DX",
+      "inferred_product": "Questa",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5008311": {
+      "title": "Calibre 3DStress: Die Level Stress Simulation For 3D IC Reliability Validation",
+      "inferred_product": "Calibre",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "4985370": {
+      "title": "Xpedition EDM Command Line Utility \u2013 A Practical Guide for Intermediate Users",
+      "inferred_product": "Xpedition",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5032390": {
+      "title": "Shift Left in DFT: Reimagining RTL Productivity with Tessent RTL Pro",
+      "inferred_product": "Tessent",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5030230": {
+      "title": "Understanding best practices while working with Planes in Layout",
+      "inferred_product": "Xpedition",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5045693": {
+      "title": "Mastering RTL Verification: When to Use Lint vs Inspect",
+      "inferred_product": "Questa",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5044034": {
+      "title": "Advanced New Features for Isolation Control and Visual Debug with Insight Analyzer",
+      "inferred_product": "Calibre",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5023912": {
+      "title": "Introducing HyperPI: Next-Generation Power Integrity Solver for HyperLynx SI/PI",
+      "inferred_product": "HyperLynx",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5025298": {
+      "title": "Distributed EDM Server: Deployment, Configuration, and Troubleshooting",
+      "inferred_product": "Xpedition",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5056294": {
+      "title": "Uncovering Simulation Mismatches: A Practical Guide to Tessent\u2122 SSN Pattern Debug",
+      "inferred_product": "Tessent",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5053693": {
+      "title": "Job Distribution using HyperLynx Advanced Solvers",
+      "inferred_product": "HyperLynx",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5036481": {
+      "title": "Mastering the Integration of Valor NPI and PCBflow: Seamless Cloud Data Exchange",
+      "inferred_product": "Valor",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5056367": {
+      "title": "From Rigid to Flexible: Complete Design Flow Using Xpedition Layout",
+      "inferred_product": "Xpedition",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5053176": {
+      "title": "Automating PCB Verification with HyperLynx DRC",
+      "inferred_product": "HyperLynx",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5068933": {
+      "title": "Calibre PEX Series - Episode 5: Don't Let Package Parasitics Compromise Your Design! | Europe",
+      "inferred_product": "Calibre",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5067188": {
+      "title": "Calibre PEX Series - Episode 5: Don't Let Package Parasitics Compromise Your Design! | North America",
+      "inferred_product": "Calibre",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5053133": {
+      "title": "New EDM Server Cockpit Settings in Xpedition 2504",
+      "inferred_product": "Xpedition",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5075694": {
+      "title": "Questa Verification IQ Uncovered: Driving Traceability with Testplan Author",
+      "inferred_product": "Questa",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5073853": {
+      "title": "Beginner's Guide to Tessent\u2122 In-System Test",
+      "inferred_product": "Tessent",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5075749": {
+      "title": "What's New in HyperLynx 2510",
+      "inferred_product": "HyperLynx",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5105730": {
+      "title": "What's new in Xpedition 2510",
+      "inferred_product": "Xpedition",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5082753": {
+      "title": "Questa One Sim Product Update 2025.2",
+      "inferred_product": "Questa",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5112053": {
+      "title": "Questa One Simulation Debug Product Update 2025.2",
+      "inferred_product": "Questa",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5132570": {
+      "title": "From Design to Verification in One Click: i3D Integrator & Calibre 3DSTACK",
+      "inferred_product": "Calibre",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5087828": {
+      "title": "Mastering 6GHz LC VCO Design and Characterization \u2013 Episode 2",
+      "inferred_product": "Eldo / Analog FastSPICE",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5111711": {
+      "title": "Managing specialized layer transitions using Complex Vias",
+      "inferred_product": "Xpedition",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5111927": {
+      "title": "Understanding the Shift in SDL in Custom IC Design 2024.3: A Guide to Smarter Placement",
+      "inferred_product": "Unknown / Cross-cutting",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5134635": {
+      "title": "What\u2019s New in Valor NPI and VPL version 2510",
+      "inferred_product": "Valor",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5108039": {
+      "title": "Multi-Factor Authentication (MFA) with EDM: Considerations when transitioning from LDAP and/or Kerberos",
+      "inferred_product": "Unknown / Cross-cutting",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5130633": {
+      "title": "Faster, Leaner, Smarter: Elevate Your Analog Design with mPower Analog's New Features",
+      "inferred_product": "mPower",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5133180": {
+      "title": "Using HyperLynx Within EDM Environment",
+      "inferred_product": "HyperLynx",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5128829": {
+      "title": "Tessent SDC Explained: Part 1 - Flow Integration & MemoryBIST Constraints",
+      "inferred_product": "Tessent",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5099796": {
+      "title": "Address and resolve Timing, Electromigration (EM) and IR Drop challenges with Aprisa\u2122 | EMEA",
+      "inferred_product": "Aprisa",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5129552": {
+      "title": "Address and resolve Timing, Electromigration (EM) and IR Drop challenges with Aprisa\u2122 | North America",
+      "inferred_product": "Aprisa",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5142647": {
+      "title": "What is Sketch Routing?",
+      "inferred_product": "Xpedition",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5148786": {
+      "title": "Transitioning to SALT: Migrating Siemens Avery Verification IPs to the New Licensing System",
+      "inferred_product": "Questa",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5142540": {
+      "title": "Xpedition EDM Utilities: Automating Tasks with Service Accounts",
+      "inferred_product": "Xpedition",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5148123": {
+      "title": "Getting Started with DDR5 Analysis",
+      "inferred_product": "HyperLynx",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5157478": {
+      "title": "Bridging Connectivity and Thermal Modeling: i3D Integration with\u202fCalibre\u202f3DThermal",
+      "inferred_product": "Calibre",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5175732": {
+      "title": "Advancements in Stimulus Free Verification: How the 2025.3 update drives usability and scalability of Static and Formal flows",
+      "inferred_product": "Questa",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5168019": {
+      "title": "From Silicon to Solution: Mastering In-System MBIST with Your IST Controller",
+      "inferred_product": "Tessent",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5172412": {
+      "title": "Formal Verification Made Simple: A Practical Guide for FPGA Designers",
+      "inferred_product": "Questa",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5182358": {
+      "title": "Mastering Project Templates in Designer",
+      "inferred_product": "Xpedition",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5174910": {
+      "title": "An Introduction to Tessent High-Bandwidth IJTAG and Its Implementation Methodology",
+      "inferred_product": "Tessent",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5178814": {
+      "title": "Calibre 2025 Key Product Updates and Highlights",
+      "inferred_product": "Calibre",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5182326": {
+      "title": "Z-planner for Superior Accuracy in Valor NPI & HyperLynx BoardSim",
+      "inferred_product": "Valor",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5186004": {
+      "title": "Accelerating end-to-end DFT workflows using hardware-assisted verification",
+      "inferred_product": "Tessent",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5211633": {
+      "title": "Cut Weeks from Debug: Rapid First-Level Bug Hunting with Inspect & Check X",
+      "inferred_product": "Questa",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5142631": {
+      "title": "Xpedition EDM Supplychain Taxonomy Upgrade",
+      "inferred_product": "Xpedition",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5220025": {
+      "title": "3D IC Electrical Analysis: 3D IC ESD Verification using I3D Integrator and Calibre 3DPERC",
+      "inferred_product": "Calibre",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5226961": {
+      "title": "Future-Proof Your Designs: The Power of Verify Property in Digital Verification",
+      "inferred_product": "Questa",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5209973": {
+      "title": "Best practices for DFT hierarchical flow methodology",
+      "inferred_product": "Tessent",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5214635": {
+      "title": "Creating and Importing Models in HyperLynx AMS",
+      "inferred_product": "HyperLynx",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5197210": {
+      "title": "Streamline Your PCB Design Process with Reusable Layout Templates in Xpedition flow",
+      "inferred_product": "Xpedition",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5232389": {
+      "title": "Gate-Level DFT Validation and Power Analysis Made Easy with Tessent and Veloce",
+      "inferred_product": "Tessent",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5240893": {
+      "title": "Unlock Efficiency: Next-Gen Verification with Questa\u00ae Check Register & Questa Check Connect",
+      "inferred_product": "Questa",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5214073": {
+      "title": "Xpedition EDM Library Cockpit: Getting to Know EDM Supplychain Shell Commands",
+      "inferred_product": "Xpedition",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5243873": {
+      "title": "Speed Up the LVL Flow: Unlock the\u202fFull\u202fPower of Calibre\u202fFastXOR",
+      "inferred_product": "Calibre",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5262776": {
+      "title": "Resolve Metastability: Improve Your Clock Domain Crossing Verification with Questa CDC",
+      "inferred_product": "Questa",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5235600": {
+      "title": "Tessent SDC Explained: Part 2 - Mastering Timing for Logic Test Instruments Including SSN",
+      "inferred_product": "Tessent",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5276533": {
+      "title": "Optimize Your Clock Trees: Learn how to best handle ICG cells in Aprisa and how to troubleshoot ICG challenges | Americas",
+      "inferred_product": "Aprisa",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5239272": {
+      "title": "Shift Left DFT debug with Tessent SSN and Veloce Apps",
+      "inferred_product": "Tessent",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5241314": {
+      "title": "Xpedition EDM DAR Overview",
+      "inferred_product": "Xpedition",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5239035": {
+      "title": "Optimize Your Clock Trees: Learn how to best handle ICG cells in Aprisa and how to troubleshoot ICG challenges | Europe & India",
+      "inferred_product": "Aprisa",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5261462": {
+      "title": "Beyond Layout DRC: Comparing Xpedition, HyperLynx, and Valor NPI for Complete PCB Design Validation",
+      "inferred_product": "HyperLynx",
+      "last_fetched_at": "2026-05-08T00:52:42.624440+00:00"
+    },
+    "5283950": {
+      "title": "High-Resolution Diagnosis at Scale with Tessent Diagnosis\u2122 and Tessent YieldInsight\u2122",
+      "inferred_product": "Tessent",
+      "last_fetched_at": "2026-05-08T01:11:35.196996+00:00"
+    },
+    "5287934": {
+      "title": "Integrating HyperLynx AMS and HyperLynx DSE for efficient design optimization",
+      "inferred_product": "HyperLynx",
+      "last_fetched_at": "2026-05-08T01:11:35.196996+00:00"
+    },
+    "5272247": {
+      "title": "Hierarchy in Xpedition Designer: An overview using the Modern UX",
+      "inferred_product": "Xpedition",
+      "last_fetched_at": "2026-05-08T01:11:35.196996+00:00"
+    },
+    "5272385": {
+      "title": "Creating EDM Library Reports using the XML Console",
+      "inferred_product": "Xpedition",
+      "last_fetched_at": "2026-05-08T01:11:35.196996+00:00"
+    },
+    "5311011": {
+      "title": "Leveraging High-Speed IO for test using IEEE 1149.6 support in Tessent BoundaryScan",
+      "inferred_product": "Tessent",
+      "last_fetched_at": "2026-05-08T01:11:35.196996+00:00"
+    },
+    "5321266": {
+      "title": "What\u2019s new in Valor NPI and VPL version 2604",
+      "inferred_product": "Valor",
+      "last_fetched_at": "2026-05-08T01:11:35.196996+00:00"
+    }
+  }
+}

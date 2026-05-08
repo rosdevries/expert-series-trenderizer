@@ -1,0 +1,275 @@
+{
+  "schema_version": 1,
+  "source": "FY26 High-Level Siemens EDA Product Categories.xlsx",
+  "products": [
+    {
+      "canonical": "3D IC / Heterogeneous Integration",
+      "category_description": "Advanced Packaging & 2.5D / 3D IC",
+      "l1_products": [
+        "3D IC Planning",
+        "Multi‑die Design & Verification",
+        "Innovator3D IC"
+      ],
+      "aliases": [
+        "3DXpert",
+        "Innovator3D IC"
+      ]
+    },
+    {
+      "canonical": "Aprisa",
+      "category_description": "Digital IC Implementation",
+      "l1_products": [
+        "Aprisa Place & Route",
+        "Aprisa Physical Implementation"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "Calibre",
+      "category_description": "IC Physical Verification & Signoff",
+      "l1_products": [
+        "Calibre nmDRC",
+        "nmLVS",
+        "nmPEX",
+        "Calibre DFM",
+        "Calibre Reliability",
+        "Calibre 3D IC"
+      ],
+      "aliases": [
+        "Gencellicon",
+        "Geolus ISV",
+        "Pyxis"
+      ]
+    },
+    {
+      "canonical": "Catapult",
+      "category_description": "Functional Verification & Simulation",
+      "l1_products": [
+        "Catapult HLS",
+        "Catapult Verification"
+      ],
+      "aliases": [
+        "Catapult Coverage",
+        "Catapult Formal and SLEC‑System"
+      ]
+    },
+    {
+      "canonical": "Eldo / Analog FastSPICE",
+      "category_description": "Analog, Mixed‑Signal & Custom IC Design",
+      "l1_products": [
+        "Eldo Platform",
+        "Analog FastSPICE"
+      ],
+      "aliases": [
+        "Analog FastSPICE (AFS)",
+        "Analog/Mixed Signal (AMS)",
+        "Eldo‑CN"
+      ]
+    },
+    {
+      "canonical": "HyperLynx",
+      "category_description": "PCB & Electronic Systems Design",
+      "l1_products": [
+        "HyperLynx SI",
+        "HyperLynx PI",
+        "HyperLynx EMI",
+        "HyperLynx Full‑Wave Solver"
+      ],
+      "aliases": [
+        "HyperLynx DRC",
+        "HyperLynx DRC – XCR"
+      ]
+    },
+    {
+      "canonical": "mPower",
+      "category_description": "Power & Reliability Analysis",
+      "l1_products": [
+        "mPower Analog",
+        "mPower Digital"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "Oasys‑RTL",
+      "category_description": "Digital IC Implementation",
+      "l1_products": [
+        "Oasys‑RTL Synthesis",
+        "Oasys‑RTL Optimization"
+      ],
+      "aliases": [
+        "HDL Designer Series",
+        "Kronos",
+        "Oasys‑RTL (Real‑Time Designer)",
+        "ReqTracer"
+      ]
+    },
+    {
+      "canonical": "PADS",
+      "category_description": "PCB & Electronic Systems Design",
+      "l1_products": [
+        "PADS Professional",
+        "PADS Standard",
+        "PADS Layout"
+      ],
+      "aliases": [
+        "PADS Pro Essentials",
+        "PADS Pro Student Edition",
+        "PADS Professional",
+        "PADS Standard & Standard Plus",
+        "PADS Standard – XCR"
+      ]
+    },
+    {
+      "canonical": "PartQuest",
+      "category_description": "PCB & Electronic Systems Design",
+      "l1_products": [
+        "PartQuest Portal",
+        "PartQuest Supply Chain Intelligence"
+      ],
+      "aliases": [
+        "PartQuest Explore"
+      ]
+    },
+    {
+      "canonical": "PowerPro",
+      "category_description": "Power & Reliability Analysis",
+      "l1_products": [
+        "PowerPro RTL Power Analysis"
+      ],
+      "aliases": [
+        "Optimus DS"
+      ]
+    },
+    {
+      "canonical": "Precision",
+      "category_description": "FPGA Design",
+      "l1_products": [
+        "Precision RTL",
+        "Precision Hi‑Rel"
+      ],
+      "aliases": [
+        "Precision Synthesis"
+      ]
+    },
+    {
+      "canonical": "Questa",
+      "category_description": "Functional Verification & Simulation",
+      "l1_products": [
+        "Questa Sim",
+        "Questa Verification IP",
+        "Questa Coverage"
+      ],
+      "aliases": [
+        "FormalPro",
+        "ModelSim",
+        "ModelSim OEM Editions",
+        "Questa OneSpin StaticFormal",
+        "Questa Simulation",
+        "Questa Verification IP",
+        "Questa Verification IQ",
+        "QuestaSim OEM Editions",
+        "QuickSim"
+      ]
+    },
+    {
+      "canonical": "S‑Edit / L‑Edit",
+      "category_description": "Analog, Mixed‑Signal & Custom IC Design",
+      "l1_products": [
+        "S‑Edit Schematic",
+        "L‑Edit Layout"
+      ],
+      "aliases": [
+        "Custom IC Design (Tanner)"
+      ]
+    },
+    {
+      "canonical": "Solido",
+      "category_description": "Analog, Mixed‑Signal & Custom IC Design",
+      "l1_products": [
+        "Solido Design Environment",
+        "Solido Characterization Suite",
+        "Solido IP Validation"
+      ],
+      "aliases": [
+        "Solido Characterization Suite",
+        "Solido Design Environment",
+        "Solido Design Environment – CN",
+        "Solido IP Validation – CN"
+      ]
+    },
+    {
+      "canonical": "Tessent",
+      "category_description": "DFT, Test & Silicon Lifecycle",
+      "l1_products": [
+        "Tessent DFT",
+        "Tessent Silicon Lifecycle Solutions",
+        "Tessent Yield Learning"
+      ],
+      "aliases": [
+        "Tessent Embedded Analytics"
+      ]
+    },
+    {
+      "canonical": "Valor",
+      "category_description": "PCB & Electronic Systems Design",
+      "l1_products": [
+        "Valor NPI",
+        "Valor Manufacturing",
+        "Valor DFM / DFA"
+      ],
+      "aliases": [
+        "CAM350",
+        "CAMCAD",
+        "Valor DFT",
+        "Valor NPI",
+        "Valor Parts Library"
+      ]
+    },
+    {
+      "canonical": "Veloce",
+      "category_description": "Functional Verification & Simulation",
+      "l1_products": [
+        "Veloce CS",
+        "Veloce Strato",
+        "Veloce Primo"
+      ],
+      "aliases": [
+        "Veloce VIPR"
+      ]
+    },
+    {
+      "canonical": "Xpedition",
+      "category_description": "PCB & Electronic Systems Design",
+      "l1_products": [
+        "Xpedition Enterprise",
+        "Xpedition Designer",
+        "Xpedition Substrate Integrator"
+      ],
+      "aliases": [
+        "BluePrint",
+        "Board Station",
+        "CADRA",
+        "PCBflow",
+        "Xpedition Enterprise – XCR",
+        "Xpedition Standard / Advanced",
+        "Xpedition Valydate"
+      ]
+    },
+    {
+      "canonical": "Xpedition Package Designer",
+      "category_description": "Advanced Packaging & 2.5D / 3D IC",
+      "l1_products": [
+        "Xpedition Package Designer (xPD)"
+      ],
+      "aliases": [
+        "Xpedition IC Packaging – XCR"
+      ]
+    },
+    {
+      "canonical": "Unknown / Cross-cutting",
+      "category_description": "Use when the event is general-purpose, methodology-only, or cannot be tied to a single product family.",
+      "l1_products": [],
+      "aliases": []
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "domains": [
+    "siemens.com",
+    "mentor.com",
+    "mentorg.com",
+    "mentorgraphics.com",
+    "siemens-healthineers.com",
+    "siemensgamesa.com"
+  ],
+  "company_patterns": [
+    "siemens",
+    "mentor graphics"
+  ]
+}

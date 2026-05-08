@@ -1,0 +1,12 @@
+.env
+local_cache/
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.python-version
+
+# Company-identifying data — stripped before committing (run scripts/strip_company_data.py)
+vocab/company_domains.json
+data/registrants/
