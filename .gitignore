@@ -7,6 +7,8 @@ __pycache__/
 venv/
 .python-version
 
+.streamlit/secrets.toml
+
 # Company-identifying data — stripped before committing (run scripts/strip_company_data.py)
 vocab/company_domains.json
 data/registrants/

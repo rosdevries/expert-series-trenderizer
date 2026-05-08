@@ -36,6 +36,25 @@ st.set_page_config(
     layout="wide",
 )
 
+# ── Auth ──────────────────────────────────────────────────────────────────────
+try:
+    _PW = st.secrets["APP_PASSWORD"]
+except Exception:
+    _PW = os.environ.get("APP_PASSWORD", "s1emens")
+
+if not st.session_state.get("authed"):
+    with st.form("login"):
+        st.subheader("Sign in")
+        pw = st.text_input("Password", type="password")
+        submitted = st.form_submit_button("Sign in", use_container_width=True)
+    if submitted:
+        if pw == _PW:
+            st.session_state.authed = True
+            st.rerun()
+        else:
+            st.error("Incorrect password.")
+    st.stop()
+
 
 # ── Data loading ──────────────────────────────────────────────────────────────
 
