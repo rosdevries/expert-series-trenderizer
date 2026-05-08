@@ -570,8 +570,9 @@ with tab4:
         }
         available = {k: v for k, v in display_cols.items() if k in e_display.columns}
 
+        sort_col = "Customer Q" if "Customer Q" in e_display.columns else "start_ts_pacific"
         e_sorted = (
-            e_display.sort_values("start_ts_pacific", ascending=False)
+            e_display.sort_values(sort_col, ascending=False)
             .reset_index(drop=True)
         )
         e_sorted_ids = e_sorted["event_id"].tolist()
