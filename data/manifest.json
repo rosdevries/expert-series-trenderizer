@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_run_at": "2026-05-11T09:57:16.332498+00:00",
+  "last_run_at": "2026-05-18T10:21:55.087374+00:00",
   "events": {
     "4940311": {
       "title": "Questa\u00ae Signoff CDC: Eliminate Netlist Glitches and Prioritize your Glitch Analysis with AI/ML based Glitch Assist",
@@ -440,27 +440,32 @@
     "5287934": {
       "title": "Integrating HyperLynx AMS and HyperLynx DSE for efficient design optimization",
       "inferred_product": "HyperLynx",
-      "last_fetched_at": "2026-05-11T09:57:16.332498+00:00"
+      "last_fetched_at": "2026-05-18T10:21:55.087374+00:00"
     },
     "5272247": {
       "title": "Hierarchy in Xpedition Designer: An overview using the Modern UX",
       "inferred_product": "Xpedition",
-      "last_fetched_at": "2026-05-11T09:57:16.332498+00:00"
+      "last_fetched_at": "2026-05-18T10:21:55.087374+00:00"
     },
     "5272385": {
       "title": "Creating EDM Library Reports using the XML Console",
       "inferred_product": "Xpedition",
-      "last_fetched_at": "2026-05-11T09:57:16.332498+00:00"
+      "last_fetched_at": "2026-05-18T10:21:55.087374+00:00"
     },
     "5311011": {
       "title": "Leveraging High-Speed IO for test using IEEE 1149.6 support in Tessent BoundaryScan",
       "inferred_product": "Tessent",
-      "last_fetched_at": "2026-05-11T09:57:16.332498+00:00"
+      "last_fetched_at": "2026-05-18T10:21:55.087374+00:00"
     },
     "5321266": {
       "title": "What\u2019s new in Valor NPI and VPL version 2604",
       "inferred_product": "Valor",
-      "last_fetched_at": "2026-05-11T09:57:16.332498+00:00"
+      "last_fetched_at": "2026-05-18T10:21:55.087374+00:00"
+    },
+    "5324468": {
+      "title": "Distributed Calibre: What You can Learn from the Transcript",
+      "inferred_product": "Calibre",
+      "last_fetched_at": "2026-05-18T10:21:55.087374+00:00"
     }
   }
 }
