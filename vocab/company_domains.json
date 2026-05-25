@@ -191,6 +191,10 @@
     "company": "Connect Group",
     "is_personal": false
   },
+  "coreel.com": {
+    "company": "Core EL",
+    "is_personal": false
+  },
   "de.bosch.com": {
     "company": "Robert Bosch GmbH",
     "is_personal": false
@@ -515,6 +519,10 @@
     "company": "Presto Engineering",
     "is_personal": false
   },
+  "prolim.com": {
+    "company": "Prolim International",
+    "is_personal": false
+  },
   "qti.qualcomm.com": {
     "company": "Qualcomm Technologies, Inc.",
     "is_personal": false
@@ -565,6 +573,10 @@
   },
   "semidynamics.com": {
     "company": "SemiDynamics",
+    "is_personal": false
+  },
+  "semtech.com": {
+    "company": "Semtech Corporation",
     "is_personal": false
   },
   "sequans.com": {
@@ -657,6 +669,10 @@
   },
   "tmrwsi.com": {
     "company": "Tomorrow Systems Integration",
+    "is_personal": false
+  },
+  "tonboimaging.com": {
+    "company": "Tonbo Imaging",
     "is_personal": false
   },
   "towersemi.com": {
